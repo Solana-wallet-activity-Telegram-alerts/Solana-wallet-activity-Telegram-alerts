@@ -116,3 +116,5 @@ The project uses C++ and has dependencies, so **vcpkg** is recommended:
 ## License
 
 This project is licensed under the [MIT License](/LICENSE).
+
+Update: User URLs
